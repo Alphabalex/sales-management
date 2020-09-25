@@ -4,7 +4,7 @@ Sales and Inventory System in PHP is a simple system created using PHP and MYSQL
 This sales and Inventory System in PHP gives you the ability to check on your products, add customers, manage suppliers, you can also modify them and more.
 This system does perform all the functions like ADD, DELETE, UPDATE, and many more. The system is simple and well organized for a user to use the program at ease.
 
-Features of this Sales and Inventory System
+#Features of this Sales and Inventory System
 
 Inventory Control
 Product Management
@@ -23,18 +23,19 @@ payroll
 Point Of Sale
 Etc..
 
-Privileges
+#Privileges
 1.Admin
 2.User
 3.Superuser 
 
-Admin credentials:
+#Admin credentials:
 Username:admin
 Password:admin
-User credentials:
+
+#User credentials:
 Username:test
 Password:test
 
-You need to create a database and name it "pos" then import the database file named "pos.sql"
+#You need to create a database and name it "pos" then import the database file named "pos.sql"
 
 
